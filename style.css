@@ -1,0 +1,118 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: rgb(236, 240, 4)
+}
+
+.travel_mainDiv
+{
+    border: 1px solid #73ff01;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+}
+
+.travel_mainDiv hr
+{
+    width: 230px; 
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+
+
+.movies_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movies_head i
+{
+float: right;
+}
+
+.movies_text span
+{
+color: #1100ff;
+}
+
+.food_li
+{
+  margin-top: 13px;
+}
+
+.food_li h4
+{
+    border-bottom: 1px solid rgb(38, 228, 117);
+    padding: 8px;
+}
+
+.food_li img
+{
+  border-radius: 25px;
+}
+
+.food_li p
+{
+  margin-top:10px;
+}
+
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+.games
+{
+  cursor: pointer;
+}
+
+.games hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
+body {
+  background: linear-gradient(45deg, rgb(0, 255, 13), rgb(0, 255, 242));
+}
